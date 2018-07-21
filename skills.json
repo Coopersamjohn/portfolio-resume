@@ -1,0 +1,62 @@
+{
+    "HTML5": [
+        " HTML 5 Semantic tags ", 
+        " HTML DOM ", 
+        " GET VS POST ", 
+        " Forms ", 
+        " Navigation Bars "
+    ],
+    "CSS3": [
+        "Selectors",
+        "Design & Layout",
+        "Animations"
+    ],
+    "Bootstrap 3/4": [
+        "Grid Layout & Columns",
+        "Drop-down menus"
+    ],
+    "Javascript": [
+        "Local vs Global Scope", 
+        "Initialized vs Declared Variables & Hoisting",
+        "Form validation"
+    ],
+    "AJAX": [
+        "call JSON objects",
+        "xhttp"
+    ],
+    "JSON": [
+        "Parse & Stringify",
+        "syntax"
+    ],
+    "Wordpress": [
+        "Installation & Setup",
+        "Custom themes"
+    ],
+    "Adobe Photoshop & Illustrator": [
+        "Color adjustments",
+        "Clipping masks",
+        "Filters",
+        "Layers",
+        "Transparency"
+    ],
+    "NodeJS": [ 
+        "Global & Local/Project installation",
+        "Lite-Server for Develeopment"
+    ],
+    "NPM - node package manager": [
+        "install packages",
+        "INIT - Package.json"
+    ],
+    "IDE's": [
+        "Visual Studio Code",
+        "Notepad++"
+    ],
+    "PHP": [
+        "syntax",
+        "basics"
+    ],
+    "Python": [
+        "syntax",
+        "basics"
+    ]
+}

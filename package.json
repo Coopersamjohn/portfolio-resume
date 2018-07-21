@@ -1,0 +1,16 @@
+{
+  "name": "portfoliosite",
+  "version": "1.0.0",
+  "description": "a simple portfolio website",
+  "main": "server.js",
+  "dependencies": {
+    "node": "^10.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "lite": "lite-server --port 8080",
+    "start": "npm run lite"
+  },
+  "author": "",
+  "license": "ISC"
+}
