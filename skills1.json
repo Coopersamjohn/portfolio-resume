@@ -1,0 +1,64 @@
+{
+    "tech": {
+        "HTML5": [
+            " HTML 5 Semantic tags ", 
+            " HTML DOM ", 
+            " GET VS POST ", 
+            " Forms ", 
+            " Navigation Bars "
+        ],
+        "CSS3": {
+            "skill6": "Selectors",
+            "skill7": "Design & Layout",
+            "skill8": "Animations"
+        },
+        "Bootstrap 3/4": {
+            "skill9": "Grid Layout & Columns",
+            "skill10": "Drop-down menus"
+        },
+        "Javascript": {
+            "skill11": "Local vs Global Scope", 
+            "skill12": "Initialized vs Declared Variables & Hoisting",
+            "skill13": "Form validation"
+        },
+        "AJAX": {
+            "skill14": "call JSON objects",
+            "skill15": "xhttp"
+        },
+        "JSON": {
+            "skill16": "Parse & Stringify",
+            "skill17": "syntax"
+        },
+        "Wordpress": {
+            "skill18": "Installation & Setup",
+            "skill19": "Custom themes"
+        },
+        "Adobe Photoshop & Illustrator": {
+            "skill20": "Color adjustments",
+            "skill21": "Clipping masks",
+            "skill22": "Filters",
+            "skill23": "Layers",
+            "skill24": "Transparency"
+        },
+        "NodeJS": { 
+            "skill25": "Global & Local/Project installation",
+            "skill26": "Lite-Server for Develeopment"
+        },
+        "NPM - node package manager": {
+            "skill27": "install packages",
+            "skill28": "INIT - Package.json"
+        },
+        "IDE's": {
+            "skill29": "Visual Studio Code",
+            "skill30": "Notepad++"
+        },
+        "PHP": {
+            "skill31": "syntax",
+            "skill32": "basics"
+        },
+        "Python": {
+            "skill33": "syntax",
+            "skill34": "basics"
+        }
+    }
+}

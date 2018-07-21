@@ -1,0 +1,90 @@
+{
+    "tech": {
+        "HTML5": {
+            "skills": [
+                " HTML 5 Semantic tags ", 
+                " HTML DOM ", 
+                " GET VS POST ", 
+                " Forms ", 
+                " Navigation Bars "
+            ]
+        },
+        "CSS3": {
+            "skills": [
+                " Selectors ",
+                " Design & Layout ",
+                " Animations "
+            ]
+        },
+        "Bootstrap 3": {
+            "skills": [
+                " Grid Layout & Columns ",
+                " Drop-down Menus "
+            ]
+        },
+        "Javascript": {
+            "skills": [
+                " Local vs Global Scope ", 
+                " Initialized vs Declared Variables & Hoisting ",
+                " Form Validation "
+            ]
+        },
+        "AJAX": {
+            "skills": [
+                "Load JSON Objects",
+                "XHTTP Requests"
+            ]
+        },
+        "JSON": {
+            "skills": [
+                "Parse & Stringify",
+                "Format & Syntax"
+            ]
+        },
+        "Wordpress": {
+            "skills": [
+                "Installation & Setup",
+                "Custom Themes"
+            ]
+        },
+        "NodeJS": {
+            "skills": [ 
+                "Global VS Local Project Installations",
+                "Lite-Server for Develeopment"
+            ]
+        },
+        "NPM": {
+            "skills": [
+                "Install Packages",
+                "INIT - Package.json"
+            ]
+        },
+        "IDE's": {
+            "skills": [
+                "Visual Studio Code",
+                "Notepad++"
+            ]
+        },
+        "PHP": {
+            "skills": [
+                "syntax",
+                "basics"
+            ]
+        },
+        "Python": {
+            "skills": [
+                "syntax",
+                "basics"
+            ]
+        },
+        "Photoshop": {
+            "skills": [
+                "Color Tuning",
+                "Clipping Masks",
+                "Filters",
+                "Layers",
+                "Transparency"
+            ]
+        }
+    }
+}
