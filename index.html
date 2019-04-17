@@ -2,8 +2,8 @@
 <html lang="en-us">
 
 	<head>
-        <title>Portfolio Website</title>
-        <meta name="Portfolio Website" content=" 'IT portfolio' resume">
+        <title>Robert Cooper Portfolio Resume</title>
+        <meta name="Robert Cooper Portfolio Resume" content=" 'IT portfolio' resume">
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport"  content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -15,34 +15,49 @@
     <body>
         <header class="container" id="top">
             <div class="row">
-                <h1 class="col-lg-8" id="person">Robert Samuel John Cooper</h1>
+                <section class="col-lg-8" id="person">
+                    <h1>Robert Samuel John Cooper</h1>
+                    <p class="txtshrink">Arlington, TX</p>
+                </section>
                 <address class="col-lg-4" id="contact">
-                    <p>Arlington, TX</p>
-                    <p>coopersamjohn@gmail.com</p>
-                    <p>coopersamjohn.github.io</p>
-		    <p>wonderful-agnesi-7e22b5.netlify.com</p>
+                    <h3>coopersamjohn@gmail.com</h3>
+                    <h3>coopersamjohn.github.io</h3>
+                    <h3>wonderful-agnesi-7e22b5.netlify.com</h3>
                 </address>
             </div>
         </header>
 
         <main class="container">
             <article class="row">
-                <div class="col-lg-9" id="content">
-                    <section class="container" id="skills">
+                <div class="col-lg-9">
+                    <section id="skills">
                         <h2>Web Development and Computer Related Skills</h2>
-                        <p>Javascript code, using AJAX async calls, will load a JSON object that lists the various front-end and back-end tools and associated skills I can use to add value to your web design team. Styled with Bootstrap and custom CSS3.</p>
-                        <button type="button" onclick="loadjson()">Click</button>
-                        <section class="row" id="demo"></section>
+                        <p class="text">
+                            <a href="https://coopersamjohn.github.io"> Pool Tournament Scheduler</a> is a
+                            Single-Page App (SPA) utilizing VueJS & Vuex currently in development. Once completed, 
+                            it will be able to schedule any number of teams and hosted locations.
+                        </p>
+                        <button class ="btn" type="button" onclick="loadjson()">Click</button>
+                        <p class="text">This button uses an AJAX async call to load a JSON object. Styled with Bootstrap and custom CSS3.</p>
+                        <section class="card-group" id="tech"></section>
                     </section>
-                    <section class="container" id="experience">
+                    <section id="experience">
                         <h2>Previous Work Experience</h2>
-                        <p>replace with json using ajax calls? or php? javascript?</p>
+                        <p class="text">
+                            
+                        </p>
+                        <button class ="btn" type="button" onclick="workjson()">Click</button>
+                        <section class="card-group" id="work"></section>
                     </section>
                 </div>
-                <div class="col-lg-3" id="">
-                    <section id="objective">
+                <div class="col-lg-3" >
+                    <section class=" sidestick objective">
                         <h2>Objective</h2>
-                        <p>To find my first <br>front-end web development job <br>in the IT industry.</p>
+                        <p class="text">Craft World-Class Web Applications for Living</p>
+                    </section>
+                    <section class="sidestick about">
+                        <h2>About Me</h2>
+                        <p class="text"> Minimalist designer, Compelling writer, SEO gnome</p>
                     </section>
                 </div>
             </article>
@@ -52,6 +67,10 @@
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em" crossorigin="anonymous"></script>
-        <script src="displaychange.js"></script>
+        <script src="displaychange2.js"></script>
+    <footer>
+        <p> All content copyright 2019 Robert Cooper except as follows, used royalty-free and accredited to:</p>
+        <p>Image by <a href="https://pixabay.com/users/JohnsonMartin-724525/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=958534">Johnson Martin</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=958534">Pixabay</a></p>
+    </footer>
     </body>
 </html>

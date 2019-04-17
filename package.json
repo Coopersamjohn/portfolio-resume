@@ -4,6 +4,7 @@
   "description": "a simple portfolio website",
   "main": "server.js",
   "dependencies": {
+    "jquery": "^3.3.1",
     "node": "^10.6.0"
   },
   "devDependencies": {},

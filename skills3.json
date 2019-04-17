@@ -20,51 +20,37 @@
         },
         "Bootstrap 4": {
             "skills": [
-                " Grid Layout & Columns ",
+                " Flex & Grid ",
                 " Drop-down Menus ",
-                " Cards, Carousels, Jumbotrons ",
+                " Cards & Carousels ",
+                " Jumbotrons ",
                 " Mobile-First "
             ]
         },
         "Javascript": {
             "skills": [
-                " Local vs Global Scope ", 
-                " Initialized vs Declared Variables & Hoisting ",
-                " Objects ",
-                " Functions "
-
+                " Object Notation & OOP ", 
+                " Hoisting ",
+                " ES5 & ES6 syntax ",
+                " Functions - Arrow & Generator ",
+                " Async operations "
             ]
         },
-        "Wordpress": {
+        "VueJS": {
             "skills": [
-                " Installation & Setup ",
-                " Custom Themes ",
-                " SEO & eCommerce Plugins ",
-                " Admin "
+                " Single-Page Applications ",
+                " Custom Components ",
+                " Vuex for state tracking and async calls ",
+                " Nuxt for server-side rendering "
             ]
         },
         "NodeJS": {
             "skills": [ 
-                " Global VS Local Project Installations ",
-                " Lite-Server for Develeopment "
-            ]
-        },
-        "NPM": {
-            "skills": [
-                " Install Packages ",
-                " INIT - Package.json "
-            ]
-        },
-        "AJAX": {
-            "skills": [
-                " Load JSON Objects ",
-                " XHTTP Requests "
-            ]
-        },
-        "JSON": {
-            "skills": [
-                " Parse & Stringify ",
-                " Format & Syntax "
+                " NPM & Yarn ",
+                " Webpack ",
+                " Babel ",
+                " Lite-Server for Develeopment ",
+                " Modules "
             ]
         },
         "GitHub": {
@@ -85,6 +71,27 @@
                 "Transparency"
             ]
         },
+        "SEO": {
+            "skills": [
+                " Google Analytics ",
+                " Search Ranking ",
+                " Keywords & Phrases ",
+                " Keyword Density ",
+                " Search Competition "                
+            ]
+        },
+        "AJAX": {
+            "skills": [
+                " Load JSON Objects ",
+                " XHTTP Requests "
+            ]
+        },
+        "JSON": {
+            "skills": [
+                " Parse & Stringify ",
+                " Format & Syntax "
+            ]
+        },
         "IDE's": {
             "skills": [
                 "Visual Studio Code",
@@ -93,14 +100,14 @@
         },
         "PHP": {
             "skills": [
-                "syntax",
-                "basics"
             ]
         },
         "Python": {
             "skills": [
-                "syntax",
-                "basics"
+            ]
+        },
+        "HTML DOM": {
+            "skills": [
             ]
         }
     }

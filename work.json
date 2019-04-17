@@ -1,10 +1,58 @@
 {
     "employer": {
-        "Samuel John Guitar Lessons" : {},
-        "Global Crossroad" : {},
-        "Conservation Construction of Texas" : {},
-        "John E Dosher Promotions" : {},
-        "SG Studios" : {},
-        "Music Academy of Denton" : {}
+        "Samuel John Guitar Lessons" : {
+            "duties" : [
+                "Promotions through Google",
+                "Website design & admin",
+                "SEO Optimization",
+                "Youtube videos",
+                "Inform parents of student's progress",
+                "Record songs written by students",
+                "Techniques for playing",
+                "Musicianship",
+                "Music Theory"
+            ]
+        },
+        "SG Studios" : {
+            "duties" : [
+                " Google Analytics ",
+                " Facebook Analytics for posts & ads ",
+                " Mail Chimp for album release campaign ",
+                " Adobe Photoshop for ads ",
+                " Market Research ",
+                " Called Radio Stations ",
+                " 4 newspaper interviews",
+                " Radio-play on 7 terrestrial and 3 internet radio stations "
+            ]
+        },
+        "Conservation Construction of Texas" : {
+            "duties" : [
+                " Engage homeowners regarding home improvement plans ",
+                " Qualify homeowners and share benefits of our services ",
+                " Schedule appointments for a mutually agreed upon time "
+            ]
+        },
+        "John E Dosher Promotions" : {
+            "duties" : [
+                " Defined audience based upon musical interests ",
+                " Contacted taste makers and secured reviews of album ",
+                " National, Local & Internet radio play of singles obtained "
+            ]
+        },
+        "Global Crossroad" : {
+            "duties" : [
+                "Answer questions about volunteering",
+                "Email & Telephone Sales",
+                "Recruit medical talent",
+                "Spoke with potential volunteers by phone and email to sign up"
+            ]
+        },
+        "Music Academy of Denton" : {
+            "duties" : [
+                " Taught Guitar Lessons using years of personally developed knowledge and expertise as well as university level education",
+                " Used iPads, laptops and desktops to develop custom training materials ",
+                " Demonstrated excellent customer service by building rapport with students and parents."
+            ]
+        }
     }
 }
